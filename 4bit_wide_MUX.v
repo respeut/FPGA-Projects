@@ -1,3 +1,5 @@
+//4 bit wide multiplexer
+
 module Lab1_part2 (SW, LEDR, LEDG, M, x, y); 
 	input[9:0] SW;
 	output [9:0] LEDR;
