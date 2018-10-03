@@ -1,4 +1,4 @@
-//Lab3 Part3 -- Master Slave D flip flop
+//Master Slave D flip flop
 
 module Lab3_part3 (LEDR, LEDG, SW);
 		input [1:0] SW;
